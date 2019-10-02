@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0; 
+}
+head{
+	height: 100%;
+}
+img{
+	position: center;
+	width: 50%;
+	padding-top: 109px;
+}
+.Center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+.Right {
+	display: block;
+	margin-left: 95%;
+	margin-right: 0;
+	width: 20%;
+  }
+.Left {
+	display: block;
+	margin-left: 0;
+	margin-right: 0;
+	width: 20%;
+  }
+  .inline-block-child {
+	display: inline-block;
+    padding: 5px;
+  }
